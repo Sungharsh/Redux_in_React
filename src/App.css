@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+
+.container{
+	width:90%;
+	background-color:#d4ecef;
+	margin-top:2px;
+	border:solid #bdbdbd 2px;
+	margin-right: auto;
+    margin-left: auto;
+}

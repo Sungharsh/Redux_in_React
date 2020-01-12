@@ -1,0 +1,46 @@
+.button {
+    width:60px;
+    background: #3498db;
+    text-align:center;
+    font-family: Arial;
+    color:#3c3c3c;
+    font-size: 14px;
+    font-weight: 600;
+    /*padding: 12px 55px 12px 26px;*/
+    /*padding: .575red .175rem !important;*/
+    padding: 12px 100px 12px 20px;
+    margin: 4px 2px;
+    /*margin: 16px;*/
+    border: solid #4d4d4d 0.5px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    white-space: nowrap;
+    vertical-align: middle;
+
+    -webkit-box-shadow: 5px 4px 13px #666666;
+    -moz-box-shadow: 5px 4px 13px #666666;
+    box-shadow: 8px 5px 12px #666;
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    background-color:#dedede;
+    border-color:#d6a951;
+    border-width:2px;
+}
+
+.button:hover,
+.button:active {
+    background: #f2feff;
+}
+
+.listStyle{
+    /*list-style: none;*/
+    list-style-type: circle;
+    list-style-position: inside;
+}
+.listItem{
+    color: #cc0000;
+    font-size: 14px;
+    font-weight: bold;
+}
